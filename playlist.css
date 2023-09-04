@@ -1,0 +1,190 @@
+/* main-section */
+.main-content-1 {
+  display: flex;
+  height: calc(100vh - 11vh); /* Subtract footer height */
+  overflow: hidden;
+}
+
+/* LEFT-SIDEBAR-SECTION */
+.left-sidebar-1 {
+  flex: 0.7;
+  background-color: black;
+  overflow-y: scroll;
+  color: white;
+}
+.left-sidebar-1::-webkit-scrollbar {
+  width: 0em;
+}
+
+/* RIGHT-CONTENT-SECTION */
+.right-content-1 {
+  flex: 4;
+  background-color: #1f1f1f;
+  /* overflow-y: scroll; */
+  position: relative;
+}
+
+/* .right-content-1::-webkit-scrollbar {
+  width: 0em;
+} */
+
+.fixed-section {
+  background: linear-gradient(180deg, #90aea7 0%, #000 120%);
+  height: 50vh;
+  padding: 1rem;
+  padding-top: 4.5rem;
+}
+
+.top-one {
+  /* background: linear-gradient(180deg, #90AEA7 0%, #000 120%); */
+  display: flex;
+  align-items: flex-end;
+  gap: 0.7rem;
+}
+
+.genre-text {
+  /* height: 55%; */
+  letter-spacing: 0.09rem;
+}
+
+.genre-text h1 {
+  position: relative;
+  font-size: 50px;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+  color: #fff;
+  text-align: left;
+}
+
+.genre-text p {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  color: #fff;
+  text-align: left;
+}
+
+.genre-short-text {
+  color: #fff;
+  font-size: 0.6375rem;
+  opacity: 0.699999988079071;
+}
+
+.genre-foot {
+  display: flex;
+  align-items: center;
+  gap: 0.6375rem;
+  font-size: 15px;
+  font-size: 0.6375rem;
+}
+
+.spoti {
+  font-weight: bold;
+  color: #fff;
+}
+
+/* TOP-SECOND-SECTION PLAYBUTTON and ICONS */
+.top-second {
+  background: linear-gradient(180deg, #232a29 0%, #1f1f1f 120%);
+  height: 8vh;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  /* background-color: #232a29; */
+}
+
+/* Styling for the buttons section */
+.btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 9.6rem;
+  padding-left: 1.5rem;
+}
+
+.icons {
+  font-size: 2.2rem;
+  cursor: pointer;
+}
+.icons-1 {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.btns > img:hover {
+  cursor: pointer;
+}
+
+/* SCROLLABLE-SECTION */
+.scrollable-section {
+  height: 39vh;
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+
+/* Style scrollbar in the scrollable section (optional) */
+.scrollable-section::-webkit-scrollbar {
+  width: 0em;
+}
+
+.horizontal-line {
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.table-header-center {
+  text-align: center;
+  flex-grow: 1; /* This ensures equal spacing between headers */
+  padding-left: 3.75rem;
+}
+
+.title-row {
+  margin-top: -10px;
+  color: #fff;
+  font-size: 12px;
+}
+
+.table-header-center-1 {
+  text-align: center;
+  /* This ensures equal spacing between headers */
+  padding-left: 25rem;
+}
+
+.table-hed {
+  color: white;
+  opacity: 0.699999988079071;
+}
+
+.were-good {
+  font-size: 16px;
+  color: white;
+  line-height: 18.19px;
+  text-align: left;
+}
+
+.table-d {
+  font-size: 14px;
+  text-align: left;
+}
+
+.playlist:hover {
+  background-color: #242626;
+}
+
+.paly-image {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  object-fit: cover;
+}
+
+/* FOOTER-SECTION-STYLE */
+.footer-1 {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #181818;
+  height: 11vh;
+  width: 100vw;
+}
