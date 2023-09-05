@@ -170,6 +170,7 @@
 
 .playlist:hover {
   background-color: #242626;
+  scale: 0.99;
 }
 
 .paly-image {
