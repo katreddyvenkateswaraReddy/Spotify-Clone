@@ -228,6 +228,10 @@
   max-height: 10vh;
 }
 
+.cards:hover{
+  scale: 1.05;
+}
+
 .cards-2 {
   background-color: #303030;
   width: calc(31% - 20px);
@@ -276,6 +280,7 @@
 .my-card:hover {
   background-color: transparent;
   cursor: pointer;
+  scale: 1.1;
 }
 
 .image-container {
