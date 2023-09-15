@@ -1,4 +1,4 @@
-### Spotify-Clone
+## Spotify-Clone
 @author "VenkateswaraReddy Katreddy"
 
 This project is an HTML and CSS-based responsive clone of Spotify's web application, meticulously crafted to mirror the structure and aesthetics of the original web application. 
