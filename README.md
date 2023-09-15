@@ -32,7 +32,7 @@ git clone https://github.com/katreddyvenkateswaraReddy/Spotify-Clone.git
 cd Spotify-Clone
 ```
 
-## Deployment
+## Deployment Link
 
 [Spotify-Clone](https://katreddyvenkateswarareddy.github.io/Spotify-Clone/)
 
