@@ -34,6 +34,8 @@ cd Spotify-Clone
 
 ## Deployment
 
+[Spotify-Clone](https://katreddyvenkateswarareddy.github.io/Spotify-Clone/)
+
 You can deploy the project using GitHub Pages or any other static site hosting service.
 
 [GitHub Pages](https://pages.github.com/): Follow GitHub's instructions to enable GitHub Pages for your repository and choose the main branch as the source.
