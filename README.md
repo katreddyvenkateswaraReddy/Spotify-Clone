@@ -1,8 +1,7 @@
 ## Spotify-Clone
 @author "VenkateswaraReddy Katreddy"
 
-This project is an HTML and CSS-based responsive clone of Spotify's web application, meticulously crafted to mirror the structure and aesthetics of the original web application. 
-This seamless design not only captures the essence of Spotify but also offers a user-friendly interface and visually appealing aesthetics.
+This project is a responsive clone of Spotify's web application built using only HTML and CSS. It is designed to replicate the layout and visual appearance of the Spotify web player without using any pre-built CSS frameworks like Bootstrap.
 
 ## Project Preview
 ![Screenshot (47)](https://github.com/katreddyvenkateswaraReddy/Spotify-Clone/assets/63310358/ba1a13a9-7f67-4570-9af2-0f2c3c329abf)
